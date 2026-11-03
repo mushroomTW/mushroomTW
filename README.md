@@ -24,8 +24,8 @@ My projects span faster game loading, AI-powered colonies, and Discord integrati
 | Project | What it does | Focus |
 | :--- | :--- | :--- |
 | **[FreeClaudeDesktop](https://github.com/mushroomTW/FreeClaudeDesktop)** | Connects Claude Desktop to OpenAI-compatible or Anthropic-compatible gateways through a local API proxy. | `Rust` · `Free` |
-| **[Codex Discord Presence](https://github.com/mushroomTW/codex-discord-presence)** | Displays Codex development activity and work details in Discord Rich Presence. | `JavaScript` · `Developer Tools` |
-| **[Claude Discord Presence](https://github.com/mushroomTW/claude-discord-presence)** | Displays Claude Desktop development activity and work details in Discord Rich Presence. | `JavaScript` · `Developer Tools` |
+| **[Codex Discord Presence](https://github.com/mushroomTW/codex-discord-presence)** | Displays Codex development activity and work details in Discord Rich Presence. | `TypeScript` · `Bun` |
+| **[Claude Discord Presence](https://github.com/mushroomTW/claude-discord-presence)** | Displays Claude Desktop development activity and work details in Discord Rich Presence. | `TypeScript` · `Bun` |
 | **[MushroomTW Skills](https://github.com/mushroomTW/MushroomTW-Skills)** | Agent Skills for project documentation, dependency decisions, code quality, and mod testing. | `Agent Skills` · `Development Workflow` |
 | **[Steam Workshop GIF Library](https://github.com/mushroomTW/GIF-library-used-in-Steam-Workshop)** | A public GIF library for Steam Workshop item descriptions. | `Asset Library` · `Steam Workshop` |
 
