@@ -13,11 +13,11 @@ My projects span faster game loading, AI-powered colonies, and Discord integrati
 
 | Project | What it does | Focus |
 | :--- | :--- | :--- |
-| **[Faster Game Loading — Continued](https://github.com/mushroomTW/FasterGameLoading---Continued)** | Reduces game startup time for large mod lists. | `RimWorld Mod` · `Performance` · `Game Loading` |
-| **[RimAgent](https://github.com/mushroomTW/RimAgent)** | An in-game AI agent for inspecting your colony and issuing orders in natural language. | `RimWorld Mod` · `AI Agent` · `LLM` |
-| **[RimLLM Framework](https://github.com/mushroomTW/RimLLM-Framework)** | A shared LLM SDK for RimWorld mods, with multiple providers and automatic failover. | `RimWorld Mod` · `AI SDK` · `LLM` |
-| **[rimworld-mod-mcp](https://github.com/mushroomTW/rimworld-mod-mcp)** | A local MCP server for researching game APIs and Defs, and creating, building, and testing mods. | `MCP Server` · `RimWorld Modding` · `AI Agents` |
-| **[Artifact Weapon Arsenal](https://github.com/mushroomTW/Artifact-Weapon-Arsenal)** | My first RimWorld mod. | `RimWorld Mod` · `RimWorld Anomaly` · `Melee Weapons` |
+| **[Faster Game Loading — Continued](https://github.com/mushroomTW/FasterGameLoading---Continued)** | Reduces game startup time for large mod lists. | `RimWorld` · `Performance` · `Game Loading` |
+| **[RimAgent](https://github.com/mushroomTW/RimAgent)** | An in-game AI agent for inspecting your colony and issuing orders in natural language. | `RimWorld` · `AI Agent` · `LLM` |
+| **[RimLLM Framework](https://github.com/mushroomTW/RimLLM-Framework)** | A shared LLM SDK for RimWorld mods, with multiple providers and automatic failover. | `RimWorld` · `AI SDK` · `LLM` |
+| **[rimworld-mod-mcp](https://github.com/mushroomTW/rimworld-mod-mcp)** | A local MCP server for researching game APIs and Defs, and creating, building, and testing mods. | `RimWorld` · `MCP Server` · `AI Agents` |
+| **[Artifact Weapon Arsenal](https://github.com/mushroomTW/Artifact-Weapon-Arsenal)** | My first RimWorld mod. | `RimWorld` · `RimWorld Anomaly` · `Melee Weapons` |
 
 ### Other Projects
 
